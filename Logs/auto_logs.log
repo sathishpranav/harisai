@@ -1,0 +1,1074 @@
+2020-12-15 15:47:37,347 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-15 15:47:37,347 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-15 15:47:37,348 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-15 15:47:37,348 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-15 15:50:08,793 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-15 15:50:08,794 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-15 15:54:34,720 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-15 15:54:34,720 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-15 15:58:40,408 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-15 15:58:40,409 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-15 15:58:58,863 - Utilities.customLogger - INFO - passed
+2020-12-15 15:59:08,812 - Utilities.customLogger - INFO - passed
+2020-12-15 16:14:47,475 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-15 16:14:47,475 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-15 16:15:03,660 - Utilities.customLogger - INFO - passed
+2020-12-15 16:15:14,314 - Utilities.customLogger - INFO - passed
+2020-12-15 16:16:18,625 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-15 16:16:18,626 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-15 16:16:58,256 - Utilities.customLogger - INFO - passed
+2020-12-15 16:17:21,047 - Utilities.customLogger - INFO - passed
+2020-12-15 16:17:38,667 - Utilities.customLogger - INFO - passed
+2020-12-15 16:19:46,266 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-15 16:19:46,266 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-15 16:20:22,263 - Utilities.customLogger - INFO - passed
+2020-12-15 16:20:54,336 - Utilities.customLogger - INFO - passed
+2020-12-15 16:23:59,811 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-15 16:23:59,812 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-15 16:24:38,692 - Utilities.customLogger - INFO - passed
+2020-12-15 16:25:09,464 - Utilities.customLogger - INFO - passed
+2020-12-15 16:25:30,543 - Utilities.customLogger - INFO - passed
+2020-12-15 16:25:50,982 - Utilities.customLogger - INFO - passed
+2020-12-15 16:26:11,492 - Utilities.customLogger - INFO - passed
+2020-12-15 16:26:31,888 - Utilities.customLogger - INFO - passed
+2020-12-15 16:26:52,502 - Utilities.customLogger - INFO - passed
+2020-12-15 16:27:12,964 - Utilities.customLogger - INFO - Login DDT test is passed***
+2020-12-15 16:27:13,246 - Utilities.customLogger - INFO - End of Login_DDT test
+2020-12-15 16:27:13,246 - Utilities.customLogger - INFO - complete the test case for data driven
+2020-12-15 16:41:57,390 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-15 16:41:57,390 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-15 16:42:30,145 - Utilities.customLogger - INFO - passed
+2020-12-15 16:43:00,773 - Utilities.customLogger - INFO - passed
+2020-12-15 16:49:30,714 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-15 16:49:30,715 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-15 16:50:03,772 - Utilities.customLogger - INFO - passed
+2020-12-15 16:50:36,268 - Utilities.customLogger - INFO - passed
+2020-12-15 16:59:57,827 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-15 16:59:57,838 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-15 17:00:31,255 - Utilities.customLogger - INFO - passed
+2020-12-15 17:01:01,888 - Utilities.customLogger - INFO - passed
+2020-12-16 13:33:38,515 - Utilities.customLogger - INFO - Test_002_DDT_login
+2020-12-16 13:33:38,515 - Utilities.customLogger - INFO - *****verify login test******
+2020-12-16 13:34:16,061 - Utilities.customLogger - INFO - passed
+2020-12-16 13:34:46,160 - Utilities.customLogger - INFO - passed
+2020-12-16 19:39:22,426 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-16 19:39:22,427 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-16 19:44:48,450 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-16 19:44:48,451 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-16 19:48:59,931 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-16 19:48:59,931 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-16 19:50:13,798 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-16 19:50:13,799 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-16 20:12:30,927 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-16 20:12:30,927 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-16 20:12:54,278 - Utilities.customLogger - INFO - passed
+2020-12-16 20:13:08,228 - Utilities.customLogger - INFO - Failed
+2020-12-16 20:13:23,005 - Utilities.customLogger - INFO - passed
+2020-12-16 20:13:38,498 - Utilities.customLogger - INFO - Failed
+2020-12-16 20:13:49,578 - Utilities.customLogger - INFO - Passed
+2020-12-16 20:13:49,580 - Utilities.customLogger - INFO - The test is passed
+2020-12-16 20:22:52,980 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-16 20:22:52,980 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-16 20:23:19,921 - Utilities.customLogger - INFO - passed
+2020-12-16 20:24:10,480 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-16 20:24:10,480 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-16 20:24:36,628 - Utilities.customLogger - INFO - passed
+2020-12-16 20:24:52,461 - Utilities.customLogger - INFO - Failed
+2020-12-16 20:25:06,025 - Utilities.customLogger - INFO - passed
+2020-12-16 20:25:22,037 - Utilities.customLogger - INFO - Failed
+2020-12-16 20:25:33,197 - Utilities.customLogger - INFO - Passed
+2020-12-16 20:25:33,198 - Utilities.customLogger - INFO - The test is passed
+2020-12-16 20:25:33,316 - Utilities.customLogger - INFO - End of Login_DDT test
+2020-12-16 20:25:33,317 - Utilities.customLogger - INFO - complete the test case for data driven
+2020-12-16 20:31:48,692 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-16 20:31:48,693 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-16 20:32:18,303 - Utilities.customLogger - INFO - passed
+2020-12-16 20:32:32,663 - Utilities.customLogger - INFO - Failed
+2020-12-16 20:32:48,700 - Utilities.customLogger - INFO - passed
+2020-12-16 20:42:40,508 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-16 20:42:40,509 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-16 20:43:07,695 - Utilities.customLogger - INFO - passed
+2020-12-16 20:49:46,933 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-16 20:49:46,933 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-16 20:50:11,247 - Utilities.customLogger - INFO - passed
+2020-12-16 20:50:26,784 - Utilities.customLogger - INFO - Failed
+2020-12-16 20:50:41,100 - Utilities.customLogger - INFO - passed
+2020-12-16 20:50:55,776 - Utilities.customLogger - INFO - Failed
+2020-12-16 20:51:08,564 - Utilities.customLogger - INFO - Passed
+2020-12-16 20:51:08,564 - Utilities.customLogger - INFO - The test is passed
+2020-12-16 20:51:08,895 - Utilities.customLogger - INFO - End of Login_DDT test
+2020-12-16 20:51:08,895 - Utilities.customLogger - INFO - complete the test case for data driven
+2020-12-17 15:54:14,735 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 15:54:14,736 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 15:54:39,186 - Utilities.customLogger - INFO - ***passed
+2020-12-17 15:54:55,783 - Utilities.customLogger - INFO - Failed
+2020-12-17 15:55:11,428 - Utilities.customLogger - INFO - ***passed
+2020-12-17 15:55:26,913 - Utilities.customLogger - INFO - Failed
+2020-12-17 15:55:38,530 - Utilities.customLogger - INFO - Passed
+2020-12-17 15:55:38,531 - Utilities.customLogger - INFO - the test is failed
+2020-12-17 16:13:35,520 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 16:13:35,521 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 16:13:56,336 - Utilities.customLogger - INFO - ***passed
+2020-12-17 16:14:09,679 - Utilities.customLogger - INFO - ****Failed
+2020-12-17 16:14:23,967 - Utilities.customLogger - INFO - ***passed
+2020-12-17 16:14:38,471 - Utilities.customLogger - INFO - ****Failed
+2020-12-17 16:14:51,188 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 16:14:51,188 - Utilities.customLogger - INFO - the DDT test is failed
+2020-12-17 16:26:19,176 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 16:26:19,177 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 16:26:37,624 - Utilities.customLogger - INFO - ***passed
+2020-12-17 16:26:48,071 - Utilities.customLogger - INFO - ****Failed
+2020-12-17 16:26:59,549 - Utilities.customLogger - INFO - ***passed
+2020-12-17 16:27:11,045 - Utilities.customLogger - INFO - ****Failed
+2020-12-17 16:27:18,376 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 16:27:18,376 - Utilities.customLogger - INFO - the DDT test is failed
+2020-12-17 16:29:03,960 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 16:29:03,960 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 16:29:28,789 - Utilities.customLogger - INFO - ***passed
+2020-12-17 16:29:38,826 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 16:29:38,827 - Utilities.customLogger - INFO - The DDT test is passed
+2020-12-17 16:29:38,974 - Utilities.customLogger - INFO - End of Login_DDT test
+2020-12-17 16:29:38,974 - Utilities.customLogger - INFO - complete the test case for data driven
+2020-12-17 16:31:56,144 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 16:31:56,144 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 16:32:16,930 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 16:32:26,487 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 16:32:35,067 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 16:35:17,547 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 16:35:17,547 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 16:35:41,968 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 16:36:02,484 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 16:38:25,301 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 16:38:25,301 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 16:38:46,801 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 16:39:06,310 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 16:44:41,177 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 16:44:41,178 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 16:45:06,354 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 16:45:24,530 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 16:46:10,905 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 16:46:10,905 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 16:46:41,947 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 16:47:06,525 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 16:47:21,915 - Utilities.customLogger - INFO - ****Failed
+2020-12-17 16:49:09,556 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 16:49:09,557 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 16:59:48,339 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 16:59:48,339 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 17:00:16,029 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 17:00:35,783 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 17:04:02,185 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 17:04:02,185 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 17:04:23,374 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 17:04:43,079 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 17:06:17,178 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 17:06:17,179 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 17:06:40,977 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 17:10:48,368 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 17:10:48,368 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 17:11:19,591 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 17:11:42,864 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 17:23:10,381 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 17:23:10,381 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 17:45:17,292 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 17:45:17,292 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 17:51:19,378 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 17:51:19,378 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 17:59:41,868 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 17:59:41,868 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 18:01:27,696 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 18:01:27,696 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 18:04:06,835 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 18:04:06,836 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 18:16:25,623 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 18:16:25,623 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 18:36:25,448 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 18:36:25,448 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 18:36:59,997 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 19:21:02,414 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 19:21:02,415 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 19:21:31,894 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 19:21:56,553 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 19:23:15,206 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 19:23:15,207 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 19:23:43,289 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 19:24:08,119 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 19:26:53,563 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 19:26:53,564 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 19:27:21,029 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 19:27:47,712 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 19:29:24,280 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 19:29:24,281 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 19:29:54,619 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 19:30:18,434 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 19:35:05,733 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 19:35:05,733 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 19:35:34,480 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 19:35:59,795 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 19:39:39,384 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 19:39:39,396 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 19:40:10,324 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 19:40:34,818 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 19:54:12,466 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 19:54:12,467 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 19:54:46,147 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 19:55:09,775 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 20:05:11,688 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 20:05:11,689 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 20:05:45,320 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 20:09:57,838 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 20:09:57,839 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 20:10:41,558 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 20:11:05,367 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 20:14:36,417 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 20:14:36,417 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 20:15:15,631 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 20:15:41,820 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 20:23:55,245 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 20:23:55,246 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 20:24:44,856 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 20:25:07,088 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 20:27:09,150 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 20:27:09,150 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 20:27:47,025 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 20:28:09,680 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 20:34:14,533 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 20:34:14,534 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 20:34:48,726 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 20:38:16,667 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 20:38:16,667 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 20:38:52,291 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 20:39:15,053 - Utilities.customLogger - INFO - ****Passed
+2020-12-17 20:41:46,664 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-17 20:41:46,664 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-17 20:42:22,829 - Utilities.customLogger - INFO - ***Passed
+2020-12-17 20:42:46,015 - Utilities.customLogger - INFO - ****Passed
+2020-12-18 15:39:41,073 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-18 15:39:41,074 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-18 15:40:17,434 - Utilities.customLogger - INFO - ***Passed
+2020-12-18 15:40:42,258 - Utilities.customLogger - INFO - ***Failed
+2020-12-18 15:40:55,751 - Utilities.customLogger - INFO - the DDT test is failed
+2020-12-18 15:44:14,932 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-18 15:44:14,934 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-18 15:44:44,239 - Utilities.customLogger - INFO - ***Passed
+2020-12-18 15:45:09,918 - Utilities.customLogger - INFO - ***Passed
+2020-12-18 15:45:33,834 - Utilities.customLogger - INFO - ****Passed
+2020-12-18 15:45:38,891 - Utilities.customLogger - INFO - The DDT test is passed
+2020-12-18 15:45:39,051 - Utilities.customLogger - INFO - End of Login_DDT test
+2020-12-18 15:45:39,052 - Utilities.customLogger - INFO - complete the test case for data driven
+2020-12-18 15:53:06,243 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2020-12-18 15:53:06,243 - Utilities.customLogger - INFO - ****Verify Login page****
+2020-12-18 15:53:41,449 - Utilities.customLogger - INFO - ***Passed
+2020-12-18 15:54:09,916 - Utilities.customLogger - INFO - ***Passed
+2020-12-18 15:54:33,721 - Utilities.customLogger - INFO - ****Passed
+2020-12-18 15:54:38,778 - Utilities.customLogger - INFO - The DDT test is passed
+2020-12-18 15:54:38,858 - Utilities.customLogger - INFO - End of Login_DDT test
+2020-12-18 15:54:38,858 - Utilities.customLogger - INFO - complete the test case for data driven
+2020-12-21 17:06:05,728 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 17:06:05,754 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 17:06:12,388 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 17:30:15,634 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 17:30:15,636 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 17:30:23,381 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 17:32:17,561 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 17:32:17,561 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 17:32:22,081 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 17:55:18,090 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 17:55:18,090 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 17:55:26,332 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 18:02:13,935 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 18:02:13,935 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 18:02:20,501 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 18:04:18,605 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 18:04:18,606 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 18:04:25,084 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 18:08:57,555 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 18:08:57,556 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 18:09:05,739 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 18:15:33,944 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 18:15:33,945 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 18:15:39,586 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 18:23:07,873 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 18:23:07,873 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 18:23:15,327 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 18:25:18,834 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 18:25:18,834 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 18:25:25,625 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 18:33:10,708 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 18:33:10,709 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 18:33:18,965 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 18:58:18,185 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 18:58:18,186 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 18:58:23,810 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 19:05:35,724 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 19:05:35,725 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 19:05:41,505 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 19:07:47,952 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 19:07:47,953 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 19:07:55,679 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 19:44:49,062 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 19:44:49,062 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 19:44:57,378 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 19:53:37,831 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 19:53:37,831 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 19:53:42,554 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 20:04:40,001 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 20:04:40,002 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 20:04:45,539 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-21 20:06:29,393 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 20:06:29,394 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 20:07:29,625 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-21 20:07:29,626 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-21 20:07:36,383 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 14:07:14,862 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 14:07:14,872 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 14:07:25,118 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 17:41:00,709 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 17:41:00,710 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 17:41:09,149 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 17:45:13,983 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 17:45:13,983 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 17:45:21,168 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 17:56:32,907 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 17:56:32,907 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 17:56:44,075 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 18:00:43,172 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 18:00:43,173 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 18:00:50,720 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 18:05:22,005 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 18:05:22,005 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 18:05:30,737 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 18:08:55,646 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 18:08:55,646 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 18:09:03,219 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 18:12:28,699 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 18:12:28,700 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 18:12:38,981 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 18:19:56,640 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 18:19:56,641 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 18:20:05,798 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 18:26:51,341 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 18:26:51,342 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 18:26:58,529 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 19:30:09,913 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 19:30:09,913 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 19:30:16,081 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 19:37:48,363 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 19:37:48,364 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 19:37:55,980 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 19:45:19,894 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 19:45:19,895 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 19:45:24,335 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 19:52:11,012 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 19:52:11,012 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 19:52:16,516 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 19:55:06,611 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 19:55:06,612 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 19:55:11,234 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 19:56:36,657 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-22 19:56:36,657 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-22 19:58:53,344 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 19:58:53,344 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 19:58:59,181 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 20:00:25,423 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-22 20:00:25,423 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-22 20:13:31,788 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 20:13:31,790 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 20:14:31,702 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 20:14:31,703 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 20:14:38,253 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 20:16:10,321 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-22 20:16:10,321 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-22 20:30:43,941 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 20:30:43,942 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 20:31:30,858 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 20:31:30,859 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 20:31:37,697 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 21:38:27,873 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 21:38:27,874 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 21:38:34,379 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 21:43:27,492 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 21:43:27,493 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 21:45:46,749 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 21:45:46,750 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 21:45:53,355 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-22 22:06:47,173 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-22 22:06:47,174 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-22 22:06:51,552 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-23 16:48:34,059 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-23 16:48:34,072 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-23 16:48:40,623 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-23 16:49:54,700 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-23 16:49:54,700 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-23 16:58:49,629 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-23 16:58:49,630 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-23 16:58:55,914 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-23 17:00:09,787 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-23 17:00:09,788 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-23 17:02:12,750 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-23 17:02:12,751 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-23 17:02:21,657 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-23 17:10:36,431 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-23 17:10:36,431 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-23 17:10:44,243 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-23 18:38:41,281 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-23 18:38:41,282 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-23 18:38:48,065 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-23 18:40:02,969 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-23 18:40:02,969 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-23 18:47:22,054 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-23 18:47:22,055 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-23 18:47:28,492 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-23 18:55:11,868 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-23 18:55:11,868 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-23 18:56:28,182 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-23 18:56:28,183 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-23 18:56:36,065 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-23 18:58:43,952 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-23 18:58:43,953 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-23 19:12:09,899 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-23 19:12:09,900 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-23 19:12:16,910 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-23 19:22:52,043 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-23 19:22:52,044 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-23 19:24:15,185 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-23 19:24:15,186 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-23 19:24:20,135 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 15:30:36,164 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 15:30:36,164 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 15:30:46,121 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 16:11:45,237 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 16:11:45,237 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 16:11:50,285 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 16:15:40,455 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 16:15:40,455 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 16:15:47,007 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 16:17:19,447 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 16:17:19,447 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-24 16:20:14,559 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 16:20:14,560 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 16:20:21,285 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 16:21:53,904 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 16:21:53,904 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-24 16:25:45,561 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 16:25:45,562 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 16:25:54,174 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 16:27:26,431 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 16:27:26,431 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-24 16:31:36,910 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 16:31:36,911 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 16:31:43,429 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 16:32:59,227 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 16:32:59,227 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-24 16:36:03,852 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 16:36:03,853 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 16:36:11,396 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 16:38:02,008 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 16:38:02,009 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-24 16:53:09,925 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 16:53:09,926 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 16:53:16,401 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 16:55:05,968 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 16:55:05,969 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-24 17:20:34,531 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 17:20:34,532 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 17:21:57,726 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 17:21:57,727 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 17:22:05,225 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 17:23:55,242 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 17:23:55,243 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-24 17:42:35,485 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 17:42:35,486 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 17:43:43,193 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 17:43:43,194 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 17:43:50,111 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 17:45:38,565 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 17:45:38,566 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-24 17:45:38,623 - Utilities.customLogger - INFO - The add cust test case is failed
+2020-12-24 17:46:41,020 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 17:46:41,020 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 17:46:49,027 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 17:48:38,385 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 17:48:38,386 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-24 17:48:38,427 - Utilities.customLogger - INFO - The add cust test case is failed
+2020-12-24 17:57:33,205 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 17:57:33,206 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 17:57:38,308 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 17:59:26,733 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 17:59:26,734 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-24 17:59:26,778 - Utilities.customLogger - INFO - The add cust test case is failed
+2020-12-24 18:29:40,323 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 18:29:40,324 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 18:29:46,263 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 18:31:36,614 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 18:31:36,616 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-24 18:56:34,900 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 18:56:34,901 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 18:56:41,488 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 18:58:31,376 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 18:58:31,376 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-24 19:15:53,080 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-24 19:15:53,081 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-24 19:15:59,947 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-24 19:17:48,353 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-24 19:17:48,354 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-26 18:18:37,124 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-26 18:18:37,124 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-26 18:18:44,272 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-26 18:20:32,977 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-26 18:20:32,977 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-28 11:04:51,961 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-28 11:04:51,962 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-28 11:04:59,455 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-28 16:36:41,510 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-28 16:36:41,511 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-28 16:36:47,954 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-28 16:38:36,207 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-28 16:38:36,208 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-28 16:44:59,050 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 16:45:07,489 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 16:46:04,615 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 16:46:12,032 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 16:50:36,515 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 16:50:42,919 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 19:27:39,286 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 19:27:45,329 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 19:29:29,629 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 19:29:33,971 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 19:31:31,176 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 19:31:36,233 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 19:44:30,173 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 19:44:34,989 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 20:01:32,236 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 20:01:38,110 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 20:05:03,672 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 20:05:11,253 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 20:18:17,126 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 20:18:24,204 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 20:20:57,598 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 20:21:04,418 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 20:24:09,751 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 20:24:15,889 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 20:26:48,810 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 20:26:53,795 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-28 21:41:57,771 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-28 21:42:03,645 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 15:50:59,024 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-29 15:51:05,082 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 15:57:23,623 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-29 15:57:29,460 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 16:00:13,251 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-29 16:00:20,147 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 16:01:49,761 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-29 16:01:55,482 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 16:08:04,136 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-29 16:08:10,313 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 16:20:58,012 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-29 16:21:04,927 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 16:24:56,287 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-29 16:25:02,500 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 16:29:56,401 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-29 16:30:02,302 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 16:42:16,644 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-29 16:42:22,755 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 16:48:26,034 - Utilities.customLogger - INFO - ***search customer by_email
+2020-12-29 16:48:31,912 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 16:49:25,099 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2020-12-29 17:24:26,042 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-29 17:24:31,666 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 17:26:27,445 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-29 17:26:32,153 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 17:32:27,185 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-29 17:32:27,185 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-29 17:32:36,881 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-29 17:34:26,450 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-29 17:34:26,450 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-29 17:35:58,318 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2020-12-29 17:35:58,319 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2020-12-29 17:36:05,025 - Utilities.customLogger - INFO - ***Provide Customer information****
+2020-12-29 17:37:52,105 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2020-12-29 17:37:52,106 - Utilities.customLogger - INFO - ***starting add customer validation***
+2020-12-29 17:54:24,067 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-29 17:54:30,142 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 17:58:20,251 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-29 17:58:24,975 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 18:00:25,879 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-29 18:00:32,445 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 18:02:01,778 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-29 18:02:06,585 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 18:13:38,584 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-29 18:13:43,829 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 18:14:24,281 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-29 20:09:35,161 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-29 20:09:40,903 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 20:10:21,072 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-29 20:12:56,556 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-29 20:13:03,620 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-29 20:13:48,443 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 17:21:34,693 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 17:21:41,788 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 17:22:18,361 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 17:24:09,080 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 17:24:13,507 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 17:24:55,000 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 17:26:30,920 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 17:26:37,611 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 17:27:20,704 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 17:28:20,692 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 17:28:23,604 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 17:28:59,048 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 17:37:36,543 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 17:37:50,424 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 17:38:33,484 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 17:42:40,412 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 17:42:46,489 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 17:43:29,318 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 17:50:49,651 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 17:50:55,775 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 17:51:33,967 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 17:53:43,537 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 17:53:50,051 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 17:54:31,983 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 21:32:33,249 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 21:32:38,478 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 21:33:19,264 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 21:35:08,970 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 21:35:15,310 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 21:35:50,511 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 21:42:56,782 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 21:43:02,961 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 21:43:42,661 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 21:53:34,050 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 21:53:40,428 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 21:54:17,341 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-30 22:06:02,626 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-30 22:06:09,180 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-30 22:06:48,934 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-31 16:52:35,377 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-31 16:52:41,302 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-31 16:53:16,986 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-31 16:55:45,711 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-31 16:55:52,151 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-31 16:56:30,829 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-31 17:06:23,001 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-31 17:06:29,467 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-31 17:07:23,405 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-31 17:07:29,276 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-31 17:08:06,361 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-31 17:11:27,889 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-31 17:11:34,024 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-31 17:12:08,606 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-31 17:17:05,478 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-31 17:17:10,243 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-31 17:17:45,794 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-31 17:42:59,313 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-31 17:43:05,109 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-31 17:43:31,971 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-31 17:45:48,833 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-31 17:45:53,356 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-31 17:46:21,738 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-31 17:53:24,635 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-31 17:53:31,136 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-31 17:53:57,590 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-31 17:55:55,512 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-31 17:56:01,802 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-31 17:56:29,357 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2020-12-31 17:58:40,053 - Utilities.customLogger - INFO - ***search customer by_first Name
+2020-12-31 17:58:46,927 - Utilities.customLogger - INFO - ******Login the application****
+2020-12-31 17:59:11,504 - Utilities.customLogger - INFO - ****search customer by fname test caseis passed***
+2021-01-01 16:32:43,692 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:32:43,692 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:32:43,692 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:32:43,692 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:32:43,692 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:32:43,692 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:32:43,694 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 16:32:43,694 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 16:32:43,694 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 16:32:43,694 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 16:32:43,694 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 16:32:43,694 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 16:32:49,114 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 16:32:49,114 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 16:32:49,114 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 16:32:49,114 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 16:32:49,114 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 16:32:49,114 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 16:34:38,756 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 16:34:38,756 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 16:34:38,756 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 16:34:38,756 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 16:34:38,756 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 16:34:38,756 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 16:34:38,757 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 16:34:38,757 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 16:34:38,757 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 16:34:38,757 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 16:34:38,757 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 16:34:38,757 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 16:34:45,084 - Utilities.customLogger - INFO - ****Verify Login Page *****
+2021-01-01 16:34:45,084 - Utilities.customLogger - INFO - ****Verify Login Page *****
+2021-01-01 16:34:45,084 - Utilities.customLogger - INFO - ****Verify Login Page *****
+2021-01-01 16:34:45,084 - Utilities.customLogger - INFO - ****Verify Login Page *****
+2021-01-01 16:34:45,084 - Utilities.customLogger - INFO - ****Verify Login Page *****
+2021-01-01 16:34:45,084 - Utilities.customLogger - INFO - ****Verify Login Page *****
+2021-01-01 16:35:00,233 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:35:00,233 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:35:00,233 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:35:00,233 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:35:00,233 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:35:00,233 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:35:00,234 - Utilities.customLogger - INFO - ****Test complete*****
+2021-01-01 16:35:00,234 - Utilities.customLogger - INFO - ****Test complete*****
+2021-01-01 16:35:00,234 - Utilities.customLogger - INFO - ****Test complete*****
+2021-01-01 16:35:00,234 - Utilities.customLogger - INFO - ****Test complete*****
+2021-01-01 16:35:00,234 - Utilities.customLogger - INFO - ****Test complete*****
+2021-01-01 16:35:00,234 - Utilities.customLogger - INFO - ****Test complete*****
+2021-01-01 16:35:00,234 - Utilities.customLogger - INFO - ****Thanks*****
+2021-01-01 16:35:00,234 - Utilities.customLogger - INFO - ****Thanks*****
+2021-01-01 16:35:00,234 - Utilities.customLogger - INFO - ****Thanks*****
+2021-01-01 16:35:00,234 - Utilities.customLogger - INFO - ****Thanks*****
+2021-01-01 16:35:00,234 - Utilities.customLogger - INFO - ****Thanks*****
+2021-01-01 16:35:00,234 - Utilities.customLogger - INFO - ****Thanks*****
+2021-01-01 16:36:26,116 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 16:36:26,116 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 16:36:26,116 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 16:36:26,116 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 16:36:26,116 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 16:36:26,116 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 16:36:26,117 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 16:36:26,117 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 16:36:26,117 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 16:36:26,117 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 16:36:26,117 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 16:36:26,117 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 16:36:51,516 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 16:36:51,516 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 16:36:51,516 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 16:36:51,516 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 16:36:51,516 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 16:36:51,516 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 16:37:17,634 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 16:37:17,634 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 16:37:17,634 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 16:37:17,634 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 16:37:17,634 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 16:37:17,634 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 16:37:39,552 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 16:37:39,552 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 16:37:39,552 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 16:37:39,552 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 16:37:39,552 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 16:37:39,552 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 16:37:44,583 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 16:37:44,583 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 16:37:44,583 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 16:37:44,583 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 16:37:44,583 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 16:37:44,583 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 16:37:44,752 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 16:37:44,752 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 16:37:44,752 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 16:37:44,752 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 16:37:44,752 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 16:37:44,752 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 16:37:44,753 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 16:37:44,753 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 16:37:44,753 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 16:37:44,753 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 16:37:44,753 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 16:37:44,753 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 16:38:09,732 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:38:09,732 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:38:09,732 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:38:09,732 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:38:09,732 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:38:09,732 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 16:38:09,733 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 16:38:09,733 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 16:38:09,733 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 16:38:09,733 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 16:38:09,733 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 16:38:09,733 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 16:38:16,846 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 16:38:16,846 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 16:38:16,846 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 16:38:16,846 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 16:38:16,846 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 16:38:16,846 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 16:40:06,090 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 16:40:06,090 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 16:40:06,090 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 16:40:06,090 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 16:40:06,090 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 16:40:06,090 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 16:40:06,091 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 16:40:06,091 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 16:40:06,091 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 16:40:06,091 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 16:40:06,091 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 16:40:06,091 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 16:40:12,145 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 16:40:12,145 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 16:40:12,145 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 16:40:12,145 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 16:40:12,145 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 16:40:12,145 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 16:40:16,954 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 16:40:16,954 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 16:40:16,954 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 16:40:16,954 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 16:40:16,954 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 16:40:16,954 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 16:41:09,121 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 16:41:09,121 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 16:41:09,121 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 16:41:09,121 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 16:41:09,121 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 16:41:09,121 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:09:38,086 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 17:09:38,086 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 17:09:38,086 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 17:09:38,086 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 17:09:38,086 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 17:09:38,086 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 17:09:38,087 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 17:09:38,087 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 17:09:38,087 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 17:09:38,087 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 17:09:38,087 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 17:09:38,087 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 17:10:05,546 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:10:05,546 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:10:05,546 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:10:05,546 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:10:05,546 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:10:05,546 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:10:34,558 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:10:34,558 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:10:34,558 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:10:34,558 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:10:34,558 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:10:34,558 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:10:58,769 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 17:10:58,769 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 17:10:58,769 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 17:10:58,769 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 17:10:58,769 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 17:10:58,769 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 17:11:03,821 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 17:11:03,821 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 17:11:03,821 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 17:11:03,821 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 17:11:03,821 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 17:11:03,821 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 17:11:04,061 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 17:11:04,061 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 17:11:04,061 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 17:11:04,061 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 17:11:04,061 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 17:11:04,061 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 17:11:04,063 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 17:11:04,063 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 17:11:04,063 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 17:11:04,063 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 17:11:04,063 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 17:11:04,063 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 17:11:29,199 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:11:29,199 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:11:29,199 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:11:29,199 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:11:29,199 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:11:29,199 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:11:29,199 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:11:29,199 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:11:29,199 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:11:29,199 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:11:29,199 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:11:29,199 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:11:35,290 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:11:35,290 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:11:35,290 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:11:35,290 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:11:35,290 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:11:35,290 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:13:23,383 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:13:23,383 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:13:23,383 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:13:23,383 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:13:23,383 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:13:23,383 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:13:23,384 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:13:23,384 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:13:23,384 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:13:23,384 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:13:23,384 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:13:23,384 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:13:29,567 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 17:13:29,567 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 17:13:29,567 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 17:13:29,567 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 17:13:29,567 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 17:13:29,567 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 17:13:35,443 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 17:13:35,443 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 17:13:35,443 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 17:13:35,443 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 17:13:35,443 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 17:13:35,443 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 17:14:20,497 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:14:20,497 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:14:20,497 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:14:20,497 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:14:20,497 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:14:20,497 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:30:49,512 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 17:30:49,512 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 17:30:49,512 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 17:30:49,512 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 17:30:49,512 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 17:30:49,512 - Utilities.customLogger - INFO - *****Test_ddt_002****
+2021-01-01 17:30:49,514 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 17:30:49,514 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 17:30:49,514 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 17:30:49,514 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 17:30:49,514 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 17:30:49,514 - Utilities.customLogger - INFO - ****Verify Login page****
+2021-01-01 17:31:19,136 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:31:19,136 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:31:19,136 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:31:19,136 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:31:19,136 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:31:19,136 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:31:47,849 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:31:47,849 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:31:47,849 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:31:47,849 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:31:47,849 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:31:47,849 - Utilities.customLogger - INFO - ***Passed
+2021-01-01 17:32:13,191 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 17:32:13,191 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 17:32:13,191 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 17:32:13,191 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 17:32:13,191 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 17:32:13,191 - Utilities.customLogger - INFO - ****Passed
+2021-01-01 17:32:18,221 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 17:32:18,221 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 17:32:18,221 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 17:32:18,221 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 17:32:18,221 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 17:32:18,221 - Utilities.customLogger - INFO - The DDT test is passed
+2021-01-01 17:32:18,340 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 17:32:18,340 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 17:32:18,340 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 17:32:18,340 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 17:32:18,340 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 17:32:18,340 - Utilities.customLogger - INFO - End of Login_DDT test
+2021-01-01 17:32:18,341 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 17:32:18,341 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 17:32:18,341 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 17:32:18,341 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 17:32:18,341 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 17:32:18,341 - Utilities.customLogger - INFO - complete the test case for data driven
+2021-01-01 17:32:46,101 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:32:46,101 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:32:46,101 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:32:46,101 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:32:46,101 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:32:46,101 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:32:46,104 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:32:46,104 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:32:46,104 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:32:46,104 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:32:46,104 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:32:46,104 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:32:52,506 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:32:52,506 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:32:52,506 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:32:52,506 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:32:52,506 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:32:52,506 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:34:41,283 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:34:41,283 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:34:41,283 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:34:41,283 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:34:41,283 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:34:41,283 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:34:41,284 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:34:41,284 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:34:41,284 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:34:41,284 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:34:41,284 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:34:41,284 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:34:47,677 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 17:34:47,677 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 17:34:47,677 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 17:34:47,677 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 17:34:47,677 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 17:34:47,677 - Utilities.customLogger - INFO - ***search customer by_email
+2021-01-01 17:34:53,257 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 17:34:53,257 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 17:34:53,257 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 17:34:53,257 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 17:34:53,257 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 17:34:53,257 - Utilities.customLogger - INFO - ******Login the application****
+2021-01-01 17:35:39,416 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:35:39,416 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:35:39,416 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:35:39,416 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:35:39,416 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:35:39,416 - Utilities.customLogger - INFO - ****search customer test caseis passed***
+2021-01-01 17:36:18,618 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:36:18,618 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:36:18,618 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:36:18,618 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:36:18,618 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:36:18,618 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:36:18,619 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:36:18,619 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:36:18,619 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:36:18,619 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:36:18,619 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:36:18,619 - Utilities.customLogger - INFO - ****start AddCustomer Test*****
+2021-01-01 17:36:26,432 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:36:26,432 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:36:26,432 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:36:26,432 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:36:26,432 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:36:26,432 - Utilities.customLogger - INFO - ***Provide Customer information****
+2021-01-01 17:38:20,066 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:38:20,066 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:38:20,066 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:38:20,066 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:38:20,066 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:38:20,066 - Utilities.customLogger - INFO - ****saving customer informatiion****
+2021-01-01 17:38:20,067 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:38:20,067 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:38:20,067 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:38:20,067 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:38:20,067 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:38:20,067 - Utilities.customLogger - INFO - ***starting add customer validation***
+2021-01-01 17:38:27,091 - Utilities.customLogger - INFO - ****Verify Login Page *****
+2021-01-01 17:38:27,091 - Utilities.customLogger - INFO - ****Verify Login Page *****
+2021-01-01 17:38:27,091 - Utilities.customLogger - INFO - ****Verify Login Page *****
+2021-01-01 17:38:27,091 - Utilities.customLogger - INFO - ****Verify Login Page *****
+2021-01-01 17:38:27,091 - Utilities.customLogger - INFO - ****Verify Login Page *****
+2021-01-01 17:38:27,091 - Utilities.customLogger - INFO - ****Verify Login Page *****
+2021-01-01 17:38:44,448 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:38:44,448 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:38:44,448 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:38:44,448 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:38:44,448 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:38:44,448 - Utilities.customLogger - INFO - ****Loggin test is passed*****
+2021-01-01 17:38:44,449 - Utilities.customLogger - INFO - ****Test complete*****
+2021-01-01 17:38:44,449 - Utilities.customLogger - INFO - ****Test complete*****
+2021-01-01 17:38:44,449 - Utilities.customLogger - INFO - ****Test complete*****
+2021-01-01 17:38:44,449 - Utilities.customLogger - INFO - ****Test complete*****
+2021-01-01 17:38:44,449 - Utilities.customLogger - INFO - ****Test complete*****
+2021-01-01 17:38:44,449 - Utilities.customLogger - INFO - ****Test complete*****
+2021-01-01 17:38:44,450 - Utilities.customLogger - INFO - ****Thanks*****
+2021-01-01 17:38:44,450 - Utilities.customLogger - INFO - ****Thanks*****
+2021-01-01 17:38:44,450 - Utilities.customLogger - INFO - ****Thanks*****
+2021-01-01 17:38:44,450 - Utilities.customLogger - INFO - ****Thanks*****
+2021-01-01 17:38:44,450 - Utilities.customLogger - INFO - ****Thanks*****
+2021-01-01 17:38:44,450 - Utilities.customLogger - INFO - ****Thanks*****
